@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-// import Temprature from './component/temprature.js';
 import Temprature from './component/temrature';
 
 function App() {
